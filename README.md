@@ -5,5 +5,12 @@
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently making my own Virtual Assistant
 - 📫 How to reach me: ...Lakchchayam.khare@gmail.com
-[![Lakchchayam's github stats](https://github-readme-stats.vercel.app/api?username=lakchchayam)](https://github.com/lakchchayam/github-readme-stats)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@lakchchayam" frameborder="0"></iframe>
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lakchchayam&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&langs_count=5&theme=tokyonight)]()
+
+
+
+
