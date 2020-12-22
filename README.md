@@ -24,3 +24,6 @@ Skills
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakchchayam&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
