@@ -1,4 +1,4 @@
-### Hi there 👋 Im Lakchchayam Divya khare student of Computer Science and currently working hard to become a successfull data scientist
+### Hi there 👋 Im Lakchchayam Divya khare student of Computer Science. I am a Data Scientist and Machine Learning Engineer
 
 
 
