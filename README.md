@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently making my own Virtual Assistant
 - 📫 How to reach me:Lakchchayam.khare@gmail.com
 
 
