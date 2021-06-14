@@ -7,7 +7,7 @@ Working as a Data Scientist and Researcher at Universite de Sherbrooke,Cananda u
 - 📫 How to reach me:Lakchchayam.khare@gmail.com
 
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lakchchayam&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&langs_count=5&theme=tokyonight)]()
 
