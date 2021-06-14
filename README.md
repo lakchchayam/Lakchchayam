@@ -8,6 +8,8 @@ Working as a Data Scientist and Researcher at Universite de Sherbrooke,Cananda u
 
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lakchchayam" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/lakchchayam?trk=profile-badge">Lakchchayam Divya Khare</a></div>
+              
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lakchchayam&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&langs_count=5&theme=tokyonight)]()
 
