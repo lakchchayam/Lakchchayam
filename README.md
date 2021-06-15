@@ -4,7 +4,7 @@ Working as a Data Scientist and Researcher at Universite de Sherbrooke,Canada un
 
 
 - 🔭 I’m currently working on Data Science Projects
-- 📫 How to reach me:Lakchchayam.khare@gmail.com
+- 📫 How to reach me: Lakchchayam.khare@gmail.com
 
 
 
