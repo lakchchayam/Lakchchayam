@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Lakchchayam Divya khare student of Computer Science.
-Working as a Data Scientist and Researcher at Universite de Sherbrooke,Cananda under the supervision of Prof.Daniel Chamberland . Our Project involves Systematic Analysis of the Business Environment : Big Data, Text Mining and Artificial intelligence. The project, built as a proof of concept (PoC), aims specifically at creating a data pipeline to support timely business analysis and decision based on artificial intelligence and text mining
+Working as a Data Scientist and Researcher at Universite de Sherbrooke,Canada under the supervision of Prof.Daniel Chamberland . Our Project involves Systematic Analysis of the Business Environment : Big Data, Text Mining and Artificial intelligence. The project, built as a proof of concept (PoC), aims specifically at creating a data pipeline to support timely business analysis and decision based on artificial intelligence and text mining
 
 
 
