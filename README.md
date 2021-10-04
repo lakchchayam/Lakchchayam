@@ -13,6 +13,7 @@ Working as a Research Scientist at Universite de Sherbrooke, Canada under the su
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lakchchayam&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&langs_count=5&theme=tokyonight)]()
 
+
 Skills
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,4 +29,4 @@ Skills
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lakchchayam&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakchchayam&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
