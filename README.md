@@ -1,5 +1,3 @@
-
-
 ### Hi there! 👋 I'm Lakchchayam Divya Khare, a Computer Science student at Western University.
 
 ![Western University Logo](https://brand.westernu.ca/_media/western-vertical.svg)
@@ -17,14 +15,8 @@ Currently, I'm working as a Research Scientist at Université de Sherbrooke, Can
 - Awarded a $15,000 Mitacs Globalink Graduate Fellowship.
 - Invited by Google Singapore for the 2nd round coding stage for STEP intern.
 
-<div style="text-align: center;">
-    ![Mitacs Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mitacs_Logo.png/320px-Mitacs_Logo.png)
-</div>
+![Mitacs Logo](https://your-mitacs-logo-url.png)
 
 #### Connect with me:
-[LinkedIn](https://in.linkedin.com/in/lakchchayam)
+[LinkedIn](https://in.linkedin.com/in/lakchchayam)  
 [Email](mailto:Lakchchayam.khare@gmail.com)
-
----
-
-This should align everything nicely. Let me know if you need further adjustments!
