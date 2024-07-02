@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Lakchchayam Divya Khare, a Computer Science student at Western University.
+### Hi there! 👋 I'm Lakchchayam Divya Khare, a Software Engineer.
 
 Currently, I'm working as a Research Scientist at Université de Sherbrooke, Canada, under the supervision of Prof. Daniel Chamberland Tremblay.
 
