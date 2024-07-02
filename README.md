@@ -1,30 +1,28 @@
-### Hi there 👋 I'm Lakchchayam Divya Khare student of Computer Science.
-Working as a Research Scientist at Universite de Sherbrooke, Canada under the supervision of Prof.Daniel Chamberland Tremblay. 
+Sure, here's an updated version of your introduction that syncs with your resume details and includes the logos for Western University and Mitacs:
 
-- 🔭 I’m currently working on Data Science Projects
-- 📫 How to reach me: Lakchchayam.khare@gmail.com
+---
 
+### Hi there 👋 I'm Lakchchayam Divya Khare
 
+I'm a Computer Science student at Western University ![Western University Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Western_University_seal.svg/1200px-Western_University_seal.svg.png), currently working as a Research Scientist at Université de Sherbrooke, Canada, under the supervision of Prof. Daniel Chamberland Tremblay.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lakchchayam" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/lakchchayam?trk=profile-badge">Lakchchayam Divya Khare</a></div>
-              
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lakchchayam&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&langs_count=5&theme=tokyonight)]()
+- 🔭 Currently focusing on Data Science projects, including the analysis of large datasets and the application of machine learning algorithms.
+- 📝 My experience includes comprehensive evaluations of Business Intelligence (BI) tools, addressing Identity and Access Management (IAM), and role synchronization challenges.
+- 🌐 Additionally, I have hands-on experience in developing responsive websites using HTML, CSS, and React.
+- 📫 You can reach me at [Lakchchayam.khare@gmail.com](mailto:Lakchchayam.khare@gmail.com).
 
+#### Achievements:
+- Awarded a $50,000 scholarship for pursuing a Master's in Computer Science at Western University.
+- Recipient of the $15,000 Mitacs Globalink Research Internship Award.
+- Canada Graduate Scholarships-Master’s program issued by NSERC.
+- Awarded a $15,000 Mitacs Globalink Graduate Fellowship.
+- Invited by Google Singapore for the 2nd round coding stage for STEP intern.
 
-Skills
+![Mitacs Logo](https://www.mitacs.ca/sites/default/files/styles/large/public/images/logos/mitacs%20logo%20color%20en.png?itok=U_8gT3db)
 
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+#### Connect with me:
+[LinkedIn](https://in.linkedin.com/in/lakchchayam)
 
+---
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lakchchayam&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+Feel free to adjust any details or add any additional information you find relevant!
