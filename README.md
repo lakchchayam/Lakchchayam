@@ -1,14 +1,16 @@
 ### Hi there! 👋 I'm Lakchchayam Divya Khare, a Computer Science student at Western University.
 
-![images](https://github.com/lakchchayam/Lakchchayam/assets/49754403/3d3574b9-addd-492f-b811-4ca1196dec36)
-
-
-
 Currently, I'm working as a Research Scientist at Université de Sherbrooke, Canada, under the supervision of Prof. Daniel Chamberland Tremblay.
 
 - 🔭 My current focus is on Data Science projects, involving the analysis of large datasets and the application of machine learning algorithms.
 - 📝 I have extensive experience evaluating Business Intelligence (BI) tools and addressing challenges in Identity and Access Management (IAM), particularly in role synchronization.
 - 🌐 Additionally, I have hands-on experience in developing responsive websites using HTML, CSS, and React.
+
+![images](https://github.com/lakchchayam/Lakchchayam/assets/49754403/3d3574b9-addd-492f-b811-4ca1196dec36)
+
+
+
+
 
 #### Achievements:
 - Awarded a $50,000 scholarship for pursuing a Master's in Computer Science at Western University.
