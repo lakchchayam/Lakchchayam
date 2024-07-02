@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Lakchchayam Divya Khare, a Software Engineer.
 
-Currently, I'm working as a Research Scientist at Université de Sherbrooke, Canada, under the supervision of Prof. Daniel Chamberland Tremblay.
+Hello! 👋 I'm Lakchchayam Divya Khare, a versatile Software Engineer with experience in designing and developing robust software solutions. I enjoy tackling complex technical challenges and collaborating with cross-functional teams to deliver high-quality products. My skills span across frontend and backend development, API integrations, and database management. I'm passionate about continuous learning and staying updated with emerging technologies to drive innovation in software engineering.
 
 - 🔭 My current focus is on Data Science projects, involving the analysis of large datasets and the application of machine learning algorithms.
 - 📝 I have extensive experience evaluating Business Intelligence (BI) tools and addressing challenges in Identity and Access Management (IAM), particularly in role synchronization.
