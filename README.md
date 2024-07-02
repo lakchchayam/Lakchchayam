@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Lakchchayam Divya Khare, a Computer Science student at Western University.
 
-![Western University Logo](https://brand.westernu.ca/_media/western-vertical.svg)
+![Western University Logo]([https://brand.westernu.ca/_media/western-vertical.svg](https://images.app.goo.gl/eCCzGcoWQQhxWKMLA))
 
 Currently, I'm working as a Research Scientist at Université de Sherbrooke, Canada, under the supervision of Prof. Daniel Chamberland Tremblay.
 
