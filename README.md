@@ -19,7 +19,6 @@ Hello! 👋 I'm Lakchchayam Divya Khare, a versatile Software Engineer with expe
 - Awarded a $15,000 Mitacs Globalink Graduate Fellowship.
 
 
-![Mitacs Logo](https://your-mitacs-logo-url.png)
 
 #### Connect with me:
 [LinkedIn](https://in.linkedin.com/in/lakchchayam)  
