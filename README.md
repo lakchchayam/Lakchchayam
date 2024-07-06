@@ -17,7 +17,7 @@ Hello! 👋 I'm Lakchchayam Divya Khare, a versatile Software Engineer with expe
 - Recipient of the $15,000 Mitacs Globalink Research Internship Award.
 - Canada Graduate Scholarships-Master’s program issued by NSERC.
 - Awarded a $15,000 Mitacs Globalink Graduate Fellowship.
-- Invited by Google Singapore for the 2nd round coding stage for STEP intern.
+
 
 ![Mitacs Logo](https://your-mitacs-logo-url.png)
 
