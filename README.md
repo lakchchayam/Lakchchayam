@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Lakchchayam Divya Khare, a Software Engineer.
+### Hi there! 👋 I'm Lakshyam, a Software Engineer.
 
 Hello! 👋 I'm Lakchchayam Divya Khare, a versatile Software Engineer with experience in designing and developing robust software solutions. I enjoy tackling complex technical challenges and collaborating with cross-functional teams to deliver high-quality products. My skills span across frontend and backend development, API integrations, and database management. I'm passionate about continuous learning and staying updated with emerging technologies to drive innovation in software engineering.
 
