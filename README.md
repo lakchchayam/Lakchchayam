@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋, I'm Lakchchayam Divya Khare</h1>
+<h1 align="center">Hi there 👋, I'm Lakshyam Divya Khare</h1>
 <h3 align="center">Software Engineer | Data Scientist | Full-Stack Developer</h3>
 
 ---
