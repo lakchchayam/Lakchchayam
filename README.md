@@ -1,5 +1,4 @@
-<!-- Profile Banner -->
-![Banner](https://via.placeholder.com/1200x300.png?text=Lakchchayam+Divya+Khare)
+
 
 <h1 align="center">Hi there 👋, I'm Lakchchayam Divya Khare</h1>
 <h3 align="center">Software Engineer | Data Scientist | Full-Stack Developer</h3>
