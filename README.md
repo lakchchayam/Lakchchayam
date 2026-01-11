@@ -9,7 +9,7 @@
 
 <!-- BIO SECTION -->
 <div align="center">
-  <h3>⚡ Neural Network Architect | 🤖 Full Stack AI Engineer</h3>
+  <h3>⚡ AI Engineer | 📊 Data Scientist | 💻 Full Stack Developer</h3>
   <br/>
   
   <p>
