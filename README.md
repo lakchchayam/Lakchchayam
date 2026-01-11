@@ -49,14 +49,15 @@
 
 ### 📌 Featured Projects
 | Project | Description | Tech |
+| Project | Description | Tech |
 |---------|-------------|------|
-| [**DocuChat AI (RAG)**](https://github.com/lakchchayam/rag-chatbot) | 🤖 Production-grade Chatbot using **Qwen-72B**, FastAPI, and Vector Search. | Python, FastAPI, ChromaDB, HuggingFace |
-| **Financial AI Assistant** | 💸 Conversational banking agent utilizing **Rasa** & **LLMs** for complex queries. | Python, Rasa, NLP |
-| [**Fraud Detection**](https://github.com/lakchchayam/fraud-detection-app) | 🛡️ Real-time transaction monitoring dashboard. | Next.js, Python, Analytics |
-| [**Exoplanet Prediction**](https://github.com/lakchchayam/Exoplanet_prediction) | ML model to detect exoplanets using NASA Kepler data. | Python, Sklearn |
-| [**Customer Churn Prediction**](https://github.com/lakchchayam/Customer-Churn-Prediction) | Predict customer churn using ML algorithms. | Python, Pandas, Sklearn |
-| [**Self Driving Cars**](https://github.com/lakchchayam/Self_driving_Cars) | Autonomous driving simulation. | Python, OpenCV |
-| [**Infinity.3D**](https://github.com/lakchchayam/INFINITY-3D) | 3D weather visualization tool. | JavaScript, WebGL |
+| [**DocuChat AI (RAG)**](https://github.com/lakchchayam/rag-chatbot) | 🤖 Production-grade RAG chatbot allowing users to query PDF documents using **Qwen-72B**, **FastAPI**, and **ChromaDB**. Features async PDF ingestion and semantic search. | Python, FastAPI, ChromaDB, HuggingFace |
+| **Financial AI Assistant** | 💸 End-to-end conversational banking agent built with **Rasa** & **LLMs**. Handles complex queries like account balances and transaction history with secure data handling. | Python, Rasa, NLP |
+| [**Fraud Detection**](https://github.com/lakchchayam/fraud-detection-app) | 🛡️ Real-time analytics dashboard implementing **Isolation Forest** algorithms to monitor financial transactions and flag anomalies. | Next.js, Python, Analytics |
+| [**Exoplanet Prediction**](https://github.com/lakchchayam/Exoplanet_prediction) | 🪐 Deep Learning pipeline Classifying candidate exoplanets from NASA Kepler Telescope time-series data using **CNNs** and **Random Forests**. | Python, TensorFlow, Sklearn |
+| [**Customer Churn**](https://github.com/lakchchayam/Customer-Churn-Prediction) | 📊 Predictive analytics model using **XGBoost** to identify at-risk customers based on usage patterns, optimizing retention strategies. | Python, Pandas, XGBoost |
+| [**Self Driving Cars**](https://github.com/lakchchayam/Self_driving_Cars) | 🚗 Autonomous driving simulation utilizing **OpenCV** for real-time lane detection, path planning, and steering control logic. | Python, OpenCV, Computer Vision |
+| [**Infinity.3D**](https://github.com/lakchchayam/INFINITY-3D) | 🌪️ Interactive 3D weather visualization tool rendering complex atmospheric data in the browser using **WebGL** and **Three.js**. | JavaScript, WebGL, Three.js |
 
 ---
 
