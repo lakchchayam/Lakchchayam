@@ -13,16 +13,16 @@
   <br/>
   
   <p>
-    I am a Master's student in Computer Science at Western University with a passion for building 
-    <b>intelligent, scalable systems</b>. My work bridges the gap between state-of-the-art AI research 
-    and production-ready applications. I specialize in <b>Retrieval-Augmented Generation (RAG)</b>, 
-    <b>MLOps</b>, and <b>Full-Stack Development</b>.
+    I am an <b>AI & Data Science Professional</b> with over <b>3 years of experience</b> building intelligent, scalable systems. 
+    My expertise lies in transforming raw data into actionable insights and deploying production-grade 
+    <b>Machine Learning</b> models. I specialize in <b>Retrieval-Augmented Generation (RAG)</b>, 
+    <b>Predictive Analytics</b>, and <b>MLOps</b>.
   </p>
 
   <p>
-    🔭 <b>Current Focus:</b> Democratizing AGI & Autonomous Agents<br/>
-    🌱 <b>Learning:</b> Advanced Cloud Architecture & LLM Fine-tuning<br/>
-    💬 <b>Ask me about:</b> Python, React, RAG Pipelines, and APIs
+    🔭 <b>Current Focus:</b> Enterprise AI Solutions & LLM Agents<br/>
+    🌱 <b>Expertise:</b> Data Pipelines, Model Fine-turning & Cloud Deployment<br/>
+    💬 <b>Ask me about:</b> Python, TensorFlow, RAG, and Scalable Architecture
   </p>
 
   <br/>
