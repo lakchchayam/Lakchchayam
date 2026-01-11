@@ -40,6 +40,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromaDB-Kinetica-FC521F?style=for-the-badge&logo=kinetica&logoColor=white"/>
 </p>
 
 ---
@@ -47,6 +50,9 @@
 ### 📌 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**DocuChat AI (RAG)**](https://github.com/lakchchayam/rag-chatbot) | 🤖 Production-grade Chatbot using **Qwen-72B**, FastAPI, and Vector Search. | Python, FastAPI, ChromaDB, HuggingFace |
+| **Financial AI Assistant** | 💸 Conversational banking agent utilizing **Rasa** & **LLMs** for complex queries. | Python, Rasa, NLP |
+| [**Fraud Detection**](https://github.com/lakchchayam/fraud-detection-app) | 🛡️ Real-time transaction monitoring dashboard. | Next.js, Python, Analytics |
 | [**Exoplanet Prediction**](https://github.com/lakchchayam/Exoplanet_prediction) | ML model to detect exoplanets using NASA Kepler data. | Python, Sklearn |
 | [**Customer Churn Prediction**](https://github.com/lakchchayam/Customer-Churn-Prediction) | Predict customer churn using ML algorithms. | Python, Pandas, Sklearn |
 | [**Self Driving Cars**](https://github.com/lakchchayam/Self_driving_Cars) | Autonomous driving simulation. | Python, OpenCV |
