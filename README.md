@@ -1,77 +1,115 @@
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=SYSTEM+ONLINE...;INITIALIZING+AI+MODULES...;HELLO%2C+I'M+LAKSHYAM+%F0%9F%91%8B;ARCHITECT+OF+INTELLIGENCE;" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
+</div>
 
+<!-- BIO SECTION -->
+<div align="center">
+  <h3>⚡ Neural Network Architect | 🤖 Full Stack AI Engineer</h3>
+  <br/>
+  
+  <p>
+    I am a Master's student in Computer Science at Western University with a passion for building 
+    <b>intelligent, scalable systems</b>. My work bridges the gap between state-of-the-art AI research 
+    and production-ready applications. I specialize in <b>Retrieval-Augmented Generation (RAG)</b>, 
+    <b>MLOps</b>, and <b>Full-Stack Development</b>.
+  </p>
 
-<h1 align="center">Hi there 👋, I'm Lakshyam Divya Khare</h1>
-<h3 align="center">Software Engineer | Data Scientist | Full-Stack Developer</h3>
+  <p>
+    🔭 <b>Current Focus:</b> Democratizing AGI & Autonomous Agents<br/>
+    🌱 <b>Learning:</b> Advanced Cloud Architecture & LLM Fine-tuning<br/>
+    💬 <b>Ask me about:</b> Python, React, RAG Pipelines, and APIs
+  </p>
 
----
+  <br/>
 
-<!-- Visitor Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakchchayam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+  <a href="https://github.com/lakchchayam">
+    <img src="https://img.shields.io/badge/Status-BUILDING_THE_FUTURE-000000?style=for-the-badge&logo=probot&logoColor=20C20E&labelColor=1c1c1c" />
+  </a>
+  <a href="mailto:Lakchchayam.khare@gmail.com">
+      <img src="https://img.shields.io/badge/Signal-ONLINE-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1c1c1c" />
+  </a>
+</div>
 
-<!-- Badges -->
-<p align="center">
-  <a href="mailto:Lakchchayam.khare@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/lakchchayam"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/lakchchayam"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" /></a>
-</p>
+<br/>
 
----
+<!-- PROJECTS GRID -->
+<h2 align="center">🚀 DEPLOYED MODULES</h2>
 
-### 🚀 About Me
-- 🎓 Master's in Computer Science – **Western University, Canada**
-- 💡 Passionate about **Machine Learning, Data Science, and Full-Stack Development**
-- 🏆 Recipient of **$50,000+ in academic scholarships**  
-- 🔭 Currently building **Data Science & AI projects**
-- 🌱 Always learning **Cloud, LLMs, and MLOps**
-- 💬 Ask me about **Python, React, ML, APIs**
-- 📫 Reach me at: **Lakchchayam.khare@gmail.com**
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>🤖 DocuChat AI</b>
+      <br/><br/>
+      <a href="https://github.com/lakchchayam/rag-chatbot">
+        <img src="https://img.shields.io/badge/INTELLIGENCE-QWEN_72B-20C20E?style=for-the-badge&labelColor=000000" />
+      </a>
+      <p>Production RAG System with Vector Search.</p>
+    </td>
+    <td width="33%" align="center">
+      <b>💸 Finance Bot</b>
+      <br/><br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/AGENT-RASA_NLU-bf40bf?style=for-the-badge&labelColor=000000" />
+      </a>
+      <p>Conversational Banking Assistant.</p>
+    </td>
+    <td width="33%" align="center">
+      <b>🛡️ Fraud Guard</b>
+      <br/><br/>
+      <a href="https://github.com/lakchchayam/fraud-detection-dash">
+        <img src="https://img.shields.io/badge/SECURITY-ISOLATION_FOREST-FF4500?style=for-the-badge&labelColor=000000" />
+      </a>
+      <p>Real-time Anomaly Detection Dashboard.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>🪐 Exoplanet AI</b>
+      <br/><br/>
+      <a href="https://github.com/lakchchayam/Exoplanet_prediction">
+        <img src="https://img.shields.io/badge/DISCOVERY-DEEP_LEARNING-3572A5?style=for-the-badge&labelColor=000000" />
+      </a>
+      <p>NASA Kepler Telescope Classifier.</p>
+    </td>
+    <td width="33%" align="center">
+      <b>🚗 AutoDrive</b>
+      <br/><br/>
+      <a href="https://github.com/lakchchayam/Self_driving_Cars">
+        <img src="https://img.shields.io/badge/VISION-OPENCV-5C5C5C?style=for-the-badge&labelColor=000000" />
+      </a>
+      <p>Autonomous Lane Detection System.</p>
+    </td>
+    <td width="33%" align="center">
+      <b>🌪️ Infinity 3D</b>
+      <br/><br/>
+      <a href="https://github.com/lakchchayam/INFINITY-3D">
+        <img src="https://img.shields.io/badge/VISUAL-WEBGL-F7DF1E?style=for-the-badge&labelColor=000000" />
+      </a>
+      <p>Interactive Weather Simulation.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/ChromaDB-Kinetica-FC521F?style=for-the-badge&logo=kinetica&logoColor=white"/>
-</p>
+<!-- TECH STACK ANALYTICS -->
+<h2 align="center">🛠️ SYSTEM KERNEL (TECH STACK)</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,pytorch,tensorflow,docker,git,linux,aws&theme=dark" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000" />
+</div>
 
----
+<br/>
 
-### 📌 Featured Projects
-| Project | Description | Tech |
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**DocuChat AI (RAG)**](https://github.com/lakchchayam/rag-chatbot) | 🤖 Production-grade RAG chatbot allowing users to query PDF documents using **Qwen-72B**, **FastAPI**, and **ChromaDB**. Features async PDF ingestion and semantic search. | Python, FastAPI, ChromaDB, HuggingFace |
-| **Financial AI Assistant** | 💸 End-to-end conversational banking agent built with **Rasa** & **LLMs**. Handles complex queries like account balances and transaction history with secure data handling. | Python, Rasa, NLP |
-| [**Fraud Detection**](https://github.com/lakchchayam/fraud-detection-app) | 🛡️ Real-time analytics dashboard implementing **Isolation Forest** algorithms to monitor financial transactions and flag anomalies. | Next.js, Python, Analytics |
-| [**Exoplanet Prediction**](https://github.com/lakchchayam/Exoplanet_prediction) | 🪐 Deep Learning pipeline Classifying candidate exoplanets from NASA Kepler Telescope time-series data using **CNNs** and **Random Forests**. | Python, TensorFlow, Sklearn |
-| [**Customer Churn**](https://github.com/lakchchayam/Customer-Churn-Prediction) | 📊 Predictive analytics model using **XGBoost** to identify at-risk customers based on usage patterns, optimizing retention strategies. | Python, Pandas, XGBoost |
-| [**Self Driving Cars**](https://github.com/lakchchayam/Self_driving_Cars) | 🚗 Autonomous driving simulation utilizing **OpenCV** for real-time lane detection, path planning, and steering control logic. | Python, OpenCV, Computer Vision |
-| [**Infinity.3D**](https://github.com/lakchchayam/INFINITY-3D) | 🌪️ Interactive 3D weather visualization tool rendering complex atmospheric data in the browser using **WebGL** and **Three.js**. | JavaScript, WebGL, Three.js |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lakchchayam&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakchchayam&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
-### 🌐 Let's Connect
-<p align="center">
-<a href="mailto:Lakchchayam.khare@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-Contact-red?style=flat&logo=gmail" /></a>
-<a href="https://www.linkedin.com/in/lakchchayam"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" /></a>
-<a href="https://github.com/lakchchayam"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github" /></a>
-</p>
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+</div>
