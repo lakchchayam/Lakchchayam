@@ -1,115 +1,164 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=SYSTEM+ONLINE...;INITIALIZING+AI+MODULES...;HELLO%2C+I'M+LAKSHYAM+%F0%9F%91%8B;ARCHITECT+OF+INTELLIGENCE;" alt="Typing SVG" />
-  
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Lakshyam%20Khare&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%26%20Solution%20Architect&descAlignY=58&descColor=8b949e&descSize=20" width="100%"/>
+
 </div>
 
-<!-- BIO SECTION -->
 <div align="center">
-  <h3>⚡ AI Engineer | 📊 Data Scientist | 💻 Full Stack Developer</h3>
-  <br/>
-  
-  <p>
-    I am an <b>AI & Data Science Professional</b> with over <b>3 years of experience</b> building intelligent, scalable systems. 
-    My expertise lies in transforming raw data into actionable insights and deploying production-grade 
-    <b>Machine Learning</b> models. I specialize in <b>Retrieval-Augmented Generation (RAG)</b>, 
-    <b>Predictive Analytics</b>, and <b>MLOps</b>.
-  </p>
 
-  <p>
-    🔭 <b>Current Focus:</b> Enterprise AI Solutions & LLM Agents<br/>
-    🌱 <b>Expertise:</b> Data Pipelines, Model Fine-turning & Cloud Deployment<br/>
-    💬 <b>Ask me about:</b> Python, TensorFlow, RAG, and Scalable Architecture
-  </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakchchayam.github.io-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://lakchchayam.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyamkhare)
+[![Email](https://img.shields.io/badge/Email-lakchchayam.khare%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakchchayam.khare@gmail.com)
 
-  <br/>
-
-  <a href="https://github.com/lakchchayam">
-    <img src="https://img.shields.io/badge/Status-BUILDING_THE_FUTURE-000000?style=for-the-badge&logo=probot&logoColor=20C20E&labelColor=1c1c1c" />
-  </a>
-  <a href="mailto:Lakchchayam.khare@gmail.com">
-      <img src="https://img.shields.io/badge/Signal-ONLINE-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1c1c1c" />
-  </a>
 </div>
 
-<br/>
+---
 
-<!-- PROJECTS GRID -->
-<h2 align="center">🚀 DEPLOYED MODULES</h2>
+## About
+
+I build **production-grade Agentic AI systems** — multi-agent orchestration frameworks, MCP tool layers, RAG pipelines, and LLMOps evaluation infrastructure. 
+
+Currently based in **Toronto, ON 🇨🇦** | MSc Computer Science, Western University (2024) | Mitacs Fellow
+
+**What I actually ship:**
+
+- 🤖 Multi-agent systems using **LangGraph** that coordinate Supervisor, Researcher, Writer, and Review agents through stateful execution graphs
+- 🔌 **Model Context Protocol (MCP)** servers that expose business data sources to LLMs with security enforcement and read-only access controls
+- 🔍 **RAG pipelines** with hybrid retrieval (dense + BM25), context-grounded generation, and LLM-as-a-Judge evaluation — tracking Faithfulness, Context Relevancy, and Answer Relevancy
+- ⚡ High-throughput **semantic routing** layers at sub-50ms latency for intent classification and agent dispatch
+- 📊 **LLMOps pipelines** with MLflow experiment tracking, drift detection, and CI/CD gating on model quality metrics
+
+---
+
+## Production Impact
 
 <div align="center">
+
+| Metric | Value |
+|---|---|
+| Monthly transactions orchestrated | **100K+** |
+| Production uptime | **99.2%** |
+| Hallucination rate reduction (RAG) | **35%** |
+| Domain accuracy improvement (PEFT) | **28%** |
+| Active production agent workflows | **6** |
+| Open-source projects shipped | **5** |
+
+</div>
+
+---
+
+## Flagship Projects
+
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <b>🤖 DocuChat AI</b>
-      <br/><br/>
-      <a href="https://github.com/lakchchayam/rag-chatbot">
-        <img src="https://img.shields.io/badge/INTELLIGENCE-QWEN_72B-20C20E?style=for-the-badge&labelColor=000000" />
-      </a>
-      <p>Production RAG System with Vector Search.</p>
-    </td>
-    <td width="33%" align="center">
-      <b>💸 Finance Bot</b>
-      <br/><br/>
-      <a href="#">
-        <img src="https://img.shields.io/badge/AGENT-RASA_NLU-bf40bf?style=for-the-badge&labelColor=000000" />
-      </a>
-      <p>Conversational Banking Assistant.</p>
-    </td>
-    <td width="33%" align="center">
-      <b>🛡️ Fraud Guard</b>
-      <br/><br/>
-      <a href="https://github.com/lakchchayam/fraud-detection-dash">
-        <img src="https://img.shields.io/badge/SECURITY-ISOLATION_FOREST-FF4500?style=for-the-badge&labelColor=000000" />
-      </a>
-      <p>Real-time Anomaly Detection Dashboard.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <b>🪐 Exoplanet AI</b>
-      <br/><br/>
-      <a href="https://github.com/lakchchayam/Exoplanet_prediction">
-        <img src="https://img.shields.io/badge/DISCOVERY-DEEP_LEARNING-3572A5?style=for-the-badge&labelColor=000000" />
-      </a>
-      <p>NASA Kepler Telescope Classifier.</p>
-    </td>
-    <td width="33%" align="center">
-      <b>🚗 AutoDrive</b>
-      <br/><br/>
-      <a href="https://github.com/lakchchayam/Self_driving_Cars">
-        <img src="https://img.shields.io/badge/VISION-OPENCV-5C5C5C?style=for-the-badge&labelColor=000000" />
-      </a>
-      <p>Autonomous Lane Detection System.</p>
-    </td>
-    <td width="33%" align="center">
-      <b>🌪️ Infinity 3D</b>
-      <br/><br/>
-      <a href="https://github.com/lakchchayam/INFINITY-3D">
-        <img src="https://img.shields.io/badge/VISUAL-WEBGL-F7DF1E?style=for-the-badge&labelColor=000000" />
-      </a>
-      <p>Interactive Weather Simulation.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Enterprise Agentic Orchestrator](https://github.com/lakchchayam/enterprise-agentic-orchestrator)
+Multi-agent execution engine built on LangGraph. Supervisor delegates to specialized workers (Researcher, Analyst, Writer) through a typed state graph with automatic LLM failover (Anthropic → OpenAI) and human-in-the-loop approval gates.
+
+`LangGraph` `LangChain` `FastAPI` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 [MCP SQL Analyst](https://github.com/lakchchayam/mcp-sql-analyst)
+Model Context Protocol server for safe LLM-driven database querying. AST-based SQL validation via `sqlglot` blocks all mutations/DDL. Read-only transactions enforced at the database level. Exposes `schema_discovery`, `run_query`, `explain_query` tools.
+
+`MCP` `SQLAlchemy` `sqlglot` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 [Autonomous Researcher](https://github.com/lakchchayam/autonomous-researcher)
+Goal-oriented research agent with a Planner → Worker → Synthesizer → Critique loop. Scrapes the web with Playwright, stores content in a FAISS session memory, and self-corrects based on LLM critique before finalizing reports.
+
+`LangGraph` `Playwright` `FAISS` `GPT-4o`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [RAG Eval Harness](https://github.com/lakchchayam/rag-eval-harness)
+Enterprise evaluation pipeline for RAG systems. LLM-as-a-Judge metrics (Faithfulness, Context Relevancy, Answer Relevancy) logged to MLflow. CI/CD GitHub Action blocks PRs when metrics degrade > 5%.
+
+`MLflow` `DeepEval` `Ragas` `Click`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [Hybrid Semantic Router](https://github.com/lakchchayam/hybrid-semantic-router)
+Sub-50ms query routing using dense embedding cosine similarity (MiniLM) fused with BM25 sparse scoring. Routes queries to the correct agent or prompt template without an expensive LLM call. FastAPI server with dynamic route management.
+
+`sentence-transformers` `BM25` `FastAPI` `ONNX`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏋️ [Lushio AI](https://github.com/lakchchayam/Lushio-AI)
+Production AI platform for the fitness industry. LangGraph orchestration layer, MCP tool servers for booking and member data, hybrid RAG over SOPs and FAQs, and PEFT fine-tuned domain models. Processes 100K+ monthly transactions.
+
+`LangGraph` `MCP` `FastMCP` `GCP` `AWS`
+
+</td>
+</tr>
 </table>
+
+---
+
+## Tech Stack
+
+**Agentic AI & LLMs**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FastMCP-blueviolet?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97706?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**ML & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189A00?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lakchchayam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" />
+
 </div>
 
-<br/>
+---
 
-<!-- TECH STACK ANALYTICS -->
-<h2 align="center">🛠️ SYSTEM KERNEL (TECH STACK)</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,pytorch,tensorflow,docker,git,linux,aws&theme=dark" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000" />
-</div>
 
-<br/>
+*Open to senior Applied AI Engineer and AI Architect roles in Toronto and remote.*
+*Let's build something that actually ships.*
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-lakchchayam.khare%40gmail.com-58a6ff?style=for-the-badge)](mailto:lakchchayam.khare@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
 </div>
