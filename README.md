@@ -1,135 +1,101 @@
-<div align="center">
+# Hi, I'm Lakshyam 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Lakshyam%20Khare&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%26%20Solution%20Architect&descAlignY=58&descColor=8b949e&descSize=20" width="100%"/>
+**Applied AI Engineer & Solution Architect** based in Toronto, ON 🇨🇦
 
-</div>
+I build production-grade Agentic AI systems — multi-agent orchestration frameworks, MCP tool layers, RAG pipelines, and LLMOps evaluation infrastructure. MSc Computer Science, Western University (2024) | Mitacs Fellow.
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lakchchayam.github.io-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://lakchchayam.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyamkhare)
-[![Email](https://img.shields.io/badge/Email-lakchchayam.khare%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakchchayam.khare@gmail.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakchchayam.github.io-0969da?style=flat-square&logo=github)](https://lakchchayam.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyamkhare)
+[![Email](https://img.shields.io/badge/Email-lakchchayam.khare%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lakchchayam.khare@gmail.com)
 
 ---
 
-## About
+## What I Ship
 
-I build **production-grade Agentic AI systems** — multi-agent orchestration frameworks, MCP tool layers, RAG pipelines, and LLMOps evaluation infrastructure. 
+- **Multi-agent orchestration** with LangGraph — Supervisor/Worker graphs, stateful execution, HITL approval gates
+- **Model Context Protocol (MCP)** servers — exposing business data to LLMs with security enforcement and read-only access
+- **RAG pipelines** — hybrid retrieval (dense + BM25), context-grounded generation, 35% hallucination reduction in production
+- **LLMOps** — MLflow experiment tracking, LLM-as-a-Judge evaluation, CI/CD quality gating
+- **Semantic routing** — sub-50ms intent classification using local embeddings + BM25, no LLM needed
 
-Currently based in **Toronto, ON 🇨🇦** | MSc Computer Science, Western University (2024) | Mitacs Fellow
-
-**What I actually ship:**
-
-- 🤖 Multi-agent systems using **LangGraph** that coordinate Supervisor, Researcher, Writer, and Review agents through stateful execution graphs
-- 🔌 **Model Context Protocol (MCP)** servers that expose business data sources to LLMs with security enforcement and read-only access controls
-- 🔍 **RAG pipelines** with hybrid retrieval (dense + BM25), context-grounded generation, and LLM-as-a-Judge evaluation — tracking Faithfulness, Context Relevancy, and Answer Relevancy
-- ⚡ High-throughput **semantic routing** layers at sub-50ms latency for intent classification and agent dispatch
-- 📊 **LLMOps pipelines** with MLflow experiment tracking, drift detection, and CI/CD gating on model quality metrics
-
----
-
-## Production Impact
-
-<div align="center">
+## Production Metrics
 
 | Metric | Value |
 |---|---|
 | Monthly transactions orchestrated | **100K+** |
 | Production uptime | **99.2%** |
-| Hallucination rate reduction (RAG) | **35%** |
-| Domain accuracy improvement (PEFT) | **28%** |
+| Hallucination rate reduction | **35%** |
+| Domain accuracy improvement via PEFT | **28%** |
 | Active production agent workflows | **6** |
-| Open-source projects shipped | **5** |
-
-</div>
 
 ---
 
 ## Flagship Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🤖 [enterprise-agentic-orchestrator](https://github.com/lakchchayam/enterprise-agentic-orchestrator)
+Production multi-agent engine built on LangGraph. Supervisor delegates to specialized workers through a typed state graph. LLM provider failover (Anthropic → OpenAI → Google). Human-in-the-loop approval gates. Exposed as FastAPI service.
 
-### 🤖 [Enterprise Agentic Orchestrator](https://github.com/lakchchayam/enterprise-agentic-orchestrator)
-Multi-agent execution engine built on LangGraph. Supervisor delegates to specialized workers (Researcher, Analyst, Writer) through a typed state graph with automatic LLM failover (Anthropic → OpenAI) and human-in-the-loop approval gates.
+`LangGraph` · `LangChain` · `FastAPI` · `Python` · `Anthropic` · `OpenAI`
 
-`LangGraph` `LangChain` `FastAPI` `Python`
+---
 
-</td>
-<td width="50%" valign="top">
+### 🔌 [mcp-sql-analyst](https://github.com/lakchchayam/mcp-sql-analyst)
+Model Context Protocol server for safe LLM-driven database querying. SQL validation via `sqlglot` AST parsing blocks all mutations/DDL before execution. Read-only transactions enforced at DB level. Exposes `schema_discovery`, `run_query`, `explain_query` tools.
 
-### 🔌 [MCP SQL Analyst](https://github.com/lakchchayam/mcp-sql-analyst)
-Model Context Protocol server for safe LLM-driven database querying. AST-based SQL validation via `sqlglot` blocks all mutations/DDL. Read-only transactions enforced at the database level. Exposes `schema_discovery`, `run_query`, `explain_query` tools.
+`MCP` · `FastMCP` · `SQLAlchemy` · `sqlglot` · `PostgreSQL`
 
-`MCP` `SQLAlchemy` `sqlglot` `PostgreSQL`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🔬 [autonomous-researcher](https://github.com/lakchchayam/autonomous-researcher)
+Goal-oriented research agent with Planner → Worker → Synthesizer → Critique loop. Scrapes the web with Playwright (JS-rendered pages), stores content in FAISS session memory, and self-corrects based on LLM critique before finalizing the report.
 
-### 🔬 [Autonomous Researcher](https://github.com/lakchchayam/autonomous-researcher)
-Goal-oriented research agent with a Planner → Worker → Synthesizer → Critique loop. Scrapes the web with Playwright, stores content in a FAISS session memory, and self-corrects based on LLM critique before finalizing reports.
+`LangGraph` · `Playwright` · `FAISS` · `BeautifulSoup` · `GPT-4o`
 
-`LangGraph` `Playwright` `FAISS` `GPT-4o`
+---
 
-</td>
-<td width="50%" valign="top">
+### 📊 [rag-eval-harness](https://github.com/lakchchayam/rag-eval-harness)
+Enterprise RAG evaluation pipeline. LLM-as-a-Judge metrics — Faithfulness, Context Relevancy, Answer Relevancy — logged per experiment to MLflow. GitHub Action blocks PRs when any metric degrades more than 5% from baseline.
 
-### 📊 [RAG Eval Harness](https://github.com/lakchchayam/rag-eval-harness)
-Enterprise evaluation pipeline for RAG systems. LLM-as-a-Judge metrics (Faithfulness, Context Relevancy, Answer Relevancy) logged to MLflow. CI/CD GitHub Action blocks PRs when metrics degrade > 5%.
+`Ragas` · `DeepEval` · `MLflow` · `Click` · `Pandas`
 
-`MLflow` `DeepEval` `Ragas` `Click`
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### ⚡ [hybrid-semantic-router](https://github.com/lakchchayam/hybrid-semantic-router)
+Sub-50ms query routing using dense embedding cosine similarity (MiniLM) fused with BM25 sparse scoring. No LLM call needed for routing. FastAPI server with single/batch endpoints and dynamic route reconfiguration.
 
-### ⚡ [Hybrid Semantic Router](https://github.com/lakchchayam/hybrid-semantic-router)
-Sub-50ms query routing using dense embedding cosine similarity (MiniLM) fused with BM25 sparse scoring. Routes queries to the correct agent or prompt template without an expensive LLM call. FastAPI server with dynamic route management.
+`sentence-transformers` · `BM25` · `FastAPI` · `ONNX` · `NumPy`
 
-`sentence-transformers` `BM25` `FastAPI` `ONNX`
+---
 
-</td>
-<td width="50%" valign="top">
+### 🏋️ [Lushio-AI](https://github.com/lakchchayam/Lushio-AI)
+Production AI platform for the fitness industry. LangGraph orchestration, MCP servers for booking and member data, hybrid RAG over SOPs and FAQs, PEFT fine-tuned domain models. 100K+ monthly transactions, 99.2% uptime.
 
-### 🏋️ [Lushio AI](https://github.com/lakchchayam/Lushio-AI)
-Production AI platform for the fitness industry. LangGraph orchestration layer, MCP tool servers for booking and member data, hybrid RAG over SOPs and FAQs, and PEFT fine-tuned domain models. Processes 100K+ monthly transactions.
-
-`LangGraph` `MCP` `FastMCP` `GCP` `AWS`
-
-</td>
-</tr>
-</table>
+`LangGraph` · `MCP` · `FastMCP` · `Pinecone` · `GCP` · `AWS` · `Docker`
 
 ---
 
 ## Tech Stack
 
-**Agentic AI & LLMs**
+**AI & Agents**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FastMCP-blueviolet?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97706?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-orange?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP%20%2F%20FastMCP-blueviolet?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace%20PEFT%20%2F%20LoRA-FFD21E?style=flat-square)
 
-**ML & Data**
+**Data & ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189A00?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-189A00?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Backend & Infrastructure**
+**Backend & Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -137,28 +103,16 @@ Production AI platform for the fitness industry. LangGraph orchestration layer, 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
+![Lakshyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakchchayam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lakchchayam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakchchayam&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css)
 
 ---
 
-<div align="center">
-
-*Open to senior Applied AI Engineer and AI Architect roles in Toronto and remote.*
-*Let's build something that actually ships.*
-
-[![Email](https://img.shields.io/badge/Get%20In%20Touch-lakchchayam.khare%40gmail.com-58a6ff?style=for-the-badge)](mailto:lakchchayam.khare@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
+*Open to senior Applied AI Engineer and AI Architect roles — Toronto and remote.*
+*[lakchchayam.khare@gmail.com](mailto:lakchchayam.khare@gmail.com)*
